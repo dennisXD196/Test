@@ -11,6 +11,12 @@ Document. Please refer to [Markdown: Syntax][eng-doc].
 
 Markdown: Syntax
 ================
+
+[leafy7382]:https://twitter.com/#!/leafy7382
+[hlb]:http://iamhlb.com/
+[Randylien]:http://twitter.com/randylien
+[ethantw]:https://twitter.com/#!/ethantw
 [漢字標準格式?CSS Reset]:http://ethantw.net/projects/han/
+[WM]:http://kidwm.net/
 
 
