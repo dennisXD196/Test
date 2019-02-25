@@ -16,4 +16,32 @@
 
 ## Week 1
 
-### Progress
+#### Progress
+
+## Week 2
+
+#### Progress
+
+## Week 3
+
+#### Progress
+
+## Week 4
+
+#### Progress
+
+## Week 5
+
+#### Progress
+
+## Week 6
+
+#### Progress
+
+## Week 7
+
+#### Progress
+
+## Week 8
+
+#### Progress
