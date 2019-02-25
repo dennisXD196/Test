@@ -11,6 +11,6 @@ Document. Please refer to [Markdown: Syntax][eng-doc].
 
 Markdown: Syntax
 ================
-
+[漢字標準格式?CSS Reset]:http://ethantw.net/projects/han/
 
 
