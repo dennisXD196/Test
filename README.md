@@ -19,6 +19,7 @@
 #### Progress
 * 建立 GitHub 帳戶
 * 第一次使用 GitHub 就上手
+* 上傳作業 0
 
 
 ## Week 2
