@@ -1,0 +1,11 @@
+1. 將客服檔案密碼移除，並將檔名改成'HW'
+2. Jieba
+3. (test) 微型 Rule base
+4. Co-occurence matrix
+5. Graph : Heatmap 
+6. Graph : Network 
+
+//---尚未完工
+1. 中文化節點
+2. 建立完整 Rule base 或是使用 NER
+3. 圖片美化
